@@ -77,209 +77,209 @@ body {
 
 
   .contenedor .ambi1 {
-    background-image: url('/imgs/ambi2.jpg');
+    background-image: url('../imgs/ambi2.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     opacity: 30%;
   }
   .contenedor .ambi2 {
-    background-image: url('/imgs/ambi1.jpg');
+    background-image: url('../imgs/ambi1.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     opacity: 30%;
   }
   .contenedor .ambi3 {
-    background-image: url('/imgs/ambi4.jpg');
+    background-image: url('../imgs/ambi4.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     opacity: 30%;
   }
   .contenedor .ambi4 {
-    background-image: url('/imgs/ambi3.jpg');
+    background-image: url('../imgs/ambi3.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     opacity: 30%;
   }
   .contenedor .ambi5 {
-    background-image: url('/imgs/ambi6.jpg');
+    background-image: url('../imgs/ambi6.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     opacity: 30%;
   }
   .contenedor .ambi6 {
-    background-image: url('/imgs/ambi5.jpg');
+    background-image: url('../imgs/ambi5.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     opacity: 30%;
   }
   .contenedor .img1 {
-    background-image: url('/imgs/img1.jpg');
+    background-image: url('../imgs/img1.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     opacity: 30%;
   }
   .contenedor .img2 {
-    background-image: url('/imgs/img2.jpg');
+    background-image: url('../imgs/img2.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     opacity: 30%;
   }
   .contenedor .img3 {
-    background-image: url('/imgs/img3.jpg');
+    background-image: url('../imgs/img3.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     opacity: 30%;
   }
   .contenedor .img4 {
-    background-image: url('/imgs/img4.jpg');
+    background-image: url('../imgs/img4.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     opacity: 30%;
   }
   .contenedor .img5 {
-    background-image: url('/imgs/img5.jpg');
+    background-image: url('../imgs/img5.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     opacity: 30%;
   }
   .contenedor .dron1 {
-    background-image: url('/imgs/dron1.jpg');
+    background-image: url('../imgs/dron1.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
   }
   .contenedor .dron2 {
-    background-image: url('/imgs/dron2.jpg');
+    background-image: url('../imgs/dron2.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     opacity: 35%;
   }
   .contenedor .dron3 {
-    background-image: url('/imgs/dron3.jpg');
+    background-image: url('../imgs/dron3.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     opacity: 35%;
   }
   .contenedor .dron4 {
-    background-image: url('/imgs/dron4.jpg');
+    background-image: url('../imgs/dron4.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     opacity: 35%;
   }
   .contenedor .dron5 {
-    background-image: url('/imgs/dron5.jpg');
+    background-image: url('../imgs/dron5.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     opacity: 35%;
   }
   .contenedor .dron6 {
-    background-image: url('/imgs/dron6.jpg');
+    background-image: url('../imgs/dron6.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     opacity: 35%;
   }
   .contenedor .dron7 {
-    background-image: url('/imgs/dron7.jpg');
+    background-image: url('../imgs/dron7.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     opacity: 35%;
   }
   .contenedor .dron8 {
-    background-image: url('/imgs/dron8.jpg');
+    background-image: url('../imgs/dron8.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     opacity: 35%;
   }
   .contenedor .dron9 {
-    background-image: url('/imgs/dron9.jpg');
+    background-image: url('../imgs/dron9.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     opacity: 35%;
   }
   .contenedor .voc1 {
-    background-image: url('/imgs/voc1.jpg');
+    background-image: url('../imgs/voc1.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     opacity: 25%;
   }
   .contenedor .voc2 {
-    background-image: url('/imgs/voc2.jpg');
+    background-image: url('../imgs/voc2.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     opacity: 25%;
   }
   .contenedor .voc3 {
-    background-image: url('/imgs/voc3.jpg');
+    background-image: url('../imgs/voc3.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     opacity: 25%;
   }
   .contenedor .voc4 {
-    background-image: url('/imgs/voc4.jpg');
+    background-image: url('../imgs/voc4.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     opacity: 25%;
   }
   .contenedor .voc5 {
-    background-image: url('/imgs/voc5.jpg');
+    background-image: url('../imgs/voc5.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     opacity: 25%;
   }
   .contenedor .voc6 {
-    background-image: url('/imgs/voc6.jpg');
+    background-image: url('../imgs/voc6.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     opacity: 25%;
   }
   .contenedor .voc7 {
-    background-image: url('/imgs/voc7.jpg');
+    background-image: url('../imgs/voc7.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     opacity: 25%;
   }
   .contenedor .voc8 {
-    background-image: url('/imgs/voc8.jpg');
+    background-image: url('../imgs/voc8.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     opacity: 25%;
   }
   .contenedor .voc9 {
-    background-image: url('/imgs/voc9.jpg');
+    background-image: url('../imgs/voc9.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     opacity: 25%;
   }
   .contenedor .voc10 {
-    background-image: url('/imgs/voc10.jpg');
+    background-image: url('../imgs/voc10.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
